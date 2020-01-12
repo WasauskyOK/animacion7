@@ -12,8 +12,8 @@ img -> img
 }
 */
 :root{
- --anchocuadrofooter:250px;
-  --altocuadrofoot:350px;
+  --anchocuadrofooter:0px;
+  --altocuadrofoot:450px;
   --bordecuadrofooter:5px;
   --formacuadrofooter:double;
 }
